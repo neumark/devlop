@@ -23,9 +23,9 @@
   "type": "module",
   "exports": {
     "types": "./lib/development.d.ts",
-    "development": "./lib/development.js",
     "default": "./lib/default.js"
   },
+  "main": "lib/default.js",
   "files": [
     "lib/"
   ],
